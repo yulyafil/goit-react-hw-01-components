@@ -1,0 +1,33 @@
+.Profile {
+  display: inline-block;
+  background-color: rgb(200, 209, 214);
+  color: #504f4f;
+  text-align: center;
+  border: 2px solid rgba(34, 30, 37, 0.137);
+  border-radius: 10px;
+  width: 350px;
+  margin: 30px;
+  padding: 20px;
+}
+
+.Avatar {
+  margin-left: 75px;
+  height: 200px;
+  border-radius: 70px;
+}
+.Name {
+  font-size: 35px;
+  color: #222222;
+}
+.Stats {
+  display: inline-flex;
+}
+.Stats-item {
+  padding: 10px;
+  border: 2px solid rgba(34, 30, 37, 0.137);
+}
+.Label {
+  font-size: 20px;
+  font-weight: 500;
+  color: #222222;
+}

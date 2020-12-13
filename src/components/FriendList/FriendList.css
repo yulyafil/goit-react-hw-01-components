@@ -1,0 +1,27 @@
+.FriendList {
+  display: flex;
+  flex-direction: column;
+}
+.FriendItem {
+  display: flex;
+  align-items: center;
+  width: 330px;
+  height: 80px;
+  box-shadow: 0 0 5px;
+  border-radius: 5px;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+.Status {
+  width: 25px;
+  height: 25px;
+  border-radius: 25px;
+}
+
+.AvatarFriend {
+  margin-left: 15px;
+  width: 70px;
+}
+.Name {
+  margin-left: 25px;
+}

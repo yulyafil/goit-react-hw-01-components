@@ -1,0 +1,16 @@
+.TransactionHistory {
+  width: 700px;
+  height: 600px;
+  text-align: center;
+  box-shadow: 0 0 5px;
+  margin: 15px;
+}
+
+thead {
+  color: gray;
+  background-color: lightblue;
+  height: 70px;
+}
+tbody {
+  color: gray;
+}

@@ -1,0 +1,25 @@
+.Statistisc {
+  text-align: center;
+  margin: 30px;
+  width: 350px;
+  border: 2px solid grey;
+  border-radius: 2px;
+}
+.Title {
+  font-size: 600;
+  text-transform: uppercase;
+  color: rgb(66, 65, 65);
+}
+.Statlist {
+  display: flex;
+  margin: 0 auto;
+}
+.Item {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding-top: 15px;
+  height: 70px;
+  width: 100%;
+  border: 1px solid grey;
+}
